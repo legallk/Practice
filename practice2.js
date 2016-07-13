@@ -16,7 +16,7 @@ for (var i = 0; i < tla.length(); i++){
 
         err = false; // something matched, no error
 
-        if(tla === "fnc") { // set temp num for FNC
+        if (tla === "fnc") { // set temp num for FNC
             num = 67;
         }
 
